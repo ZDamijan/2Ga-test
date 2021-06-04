@@ -1,2 +1,2 @@
 # 2Ga-test
-Zlatko Damijanić
+Zlatko Damijanić Antonio Martinko
